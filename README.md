@@ -66,10 +66,6 @@ I name this snake Snakerzaaa!
 
 Your high score is tracked and displayed on the screen. Challenge yourself to beat your previous high score and become the ultimate snake master!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 This project was created as a fun implementation of the classic Snake Game and is inspired by the nostalgia of arcade gaming. Special thanks to the open-source community for providing valuable resources and guidance.
