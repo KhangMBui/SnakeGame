@@ -46,12 +46,6 @@ I name this snake Snakerzaaa!
 
 - Use the arrow keys (Up, Down, Left, Right) to control the snake's direction.
 
-## Screenshots
-
-![Snake Game Screenshot 1](screenshot1.png)
-
-![Snake Game Screenshot 2](screenshot2.png)
-
 ## How to Play
 
 1. Select a game mode from the dropdown menu - "No Wall" or "Wall."
